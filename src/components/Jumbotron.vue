@@ -11,7 +11,7 @@
     />
     <h1 class="display-4 fw-bold">SMAN 9 Luwu Utara</h1>
     <p class="lead">
-      Amaliah Ramadhan siswa Islam, pasraman siswa Hindu, dan Pembinaan ruhani
+      Amaliah Ramadhan siswa Islam, Pasraman siswa Hindu, dan Pembinaan ruhani
       siswa Kristen
     </p>
   </section>

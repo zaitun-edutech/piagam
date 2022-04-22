@@ -20,8 +20,8 @@
             <div v-for="k in cariData" :key="k">
               <div class="card shadow rounded bg-warning" style="width: 18rem">
                 <div class="card-body">
-                  <p>{{ k.code }}</p>
-                  <h5 class="card-title">{{ k.nama }}</h5>
+                  <p>Code : {{ k.code }}</p>
+                  <h5 class="card-title">Nama: {{ k.nama }}</h5>
                   <p class="card-text">Status</p>
                   <a :href="k.url" class="btn btn-primary">Dowload</a>
                 </div>
