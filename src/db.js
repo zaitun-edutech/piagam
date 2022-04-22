@@ -1,0 +1,66 @@
+const db = [
+  {
+    code: "1234",
+    nama: "Awal Makkaraka1",
+    "id-piagam": "1Ug0QyC9RiJKJyr5oVWeD_Ca1FO2Pxw--",
+    url: "https://drive.google.com/file/d/1Ug0QyC9RiJKJyr5oVWeD_Ca1FO2Pxw--/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1235",
+    nama: "Awal Makkaraka2",
+    "id-piagam": "1_VwpO3-rWexBIgjcY4c7CEJdBZTcKuO6",
+    url: "https://drive.google.com/file/d/1_VwpO3-rWexBIgjcY4c7CEJdBZTcKuO6/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1236",
+    nama: "Awal Makkaraka3",
+    "id-piagam": "11EeahdYitDmf_fyN7YU2dyQl6nfCz29S",
+    url: "https://drive.google.com/file/d/11EeahdYitDmf_fyN7YU2dyQl6nfCz29S/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1237",
+    nama: "Awal Makkaraka4",
+    "id-piagam": "1nBOg65CSKRigp4WF9m3Bkliyy_bROxyp",
+    url: "https://drive.google.com/file/d/1nBOg65CSKRigp4WF9m3Bkliyy_bROxyp/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1238",
+    nama: "Awal Makkaraka5",
+    "id-piagam": "1vl2RW7LUCqrNKtvvQD_a9RZKFbkjFOzr",
+    url: "https://drive.google.com/file/d/1vl2RW7LUCqrNKtvvQD_a9RZKFbkjFOzr/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1239",
+    nama: "Awal Makkaraka6",
+    "id-piagam": "1lulkcou6DP-QKapSLOilTLYkrf6cE0zi",
+    url: "https://drive.google.com/file/d/1lulkcou6DP-QKapSLOilTLYkrf6cE0zi/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1240",
+    nama: "Awal Makkaraka7",
+    "id-piagam": "1nz8dze3FWo9nelwgEc9ITQeP1cwPAdny",
+    url: "https://drive.google.com/file/d/1nz8dze3FWo9nelwgEc9ITQeP1cwPAdny/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1241",
+    nama: "Awal Makkaraka8",
+    "id-piagam": "1HXgVOMEVO2anC2IO6Bs8KQ1fcG7VFaoQ",
+    url: "https://drive.google.com/file/d/1HXgVOMEVO2anC2IO6Bs8KQ1fcG7VFaoQ/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+  {
+    code: "1242",
+    nama: "Awal Makkaraka9",
+    "id-piagam": "1LkcgUCS8ic82rzGPKJfaVU1VYS2M7OTT",
+    url: "https://drive.google.com/file/d/1LkcgUCS8ic82rzGPKJfaVU1VYS2M7OTT/view?usp=drivesdk",
+    link: "Piagam-ramadhan",
+  },
+];
+export default db;
