@@ -22,7 +22,7 @@
                 <div class="card-body">
                   <p>Code : {{ k.code }}</p>
                   <h5 class="card-title">Nama: {{ k.nama }}</h5>
-                  <p class="card-text">Status</p>
+                  <p class="card-text">Status: {{ k.status }}</p>
                   <a :href="k.url" class="btn btn-primary">Dowload</a>
                 </div>
               </div>
